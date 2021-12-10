@@ -1,0 +1,19 @@
+img{
+    float: left;
+}
+div{
+    background-color: blue;
+    width: 10rem;
+    height: 150px;
+}
+*{
+    border: 1px solid black;
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+}
